@@ -102,7 +102,7 @@ These skills are grounded in published research:
 | **The What-If Statement**     | [10.5281/zenodo.18736841](https://doi.org/10.5281/zenodo.18736841) | Speculative computation — a new paradigm for exploring possibility spaces                          |
 | **IDNA Consolidation v2**     | [10.5281/zenodo.18807387](https://doi.org/10.5281/zenodo.18807387) | 7 advances including 4D-DHDNA, Digital H₂O, Golden Ratio Architecture, Ink Law                     |
 
-The consciousness-council skill implements multi-perspective deliberation — architecturally parallel to the multi-head attention mechanism in Transformers ([Vaswani et al., 2017](https://arxiv.org/abs/1706.03762)), but applied to structured reasoning rather than language tokens.
+The consciousness-council skill implements multi-perspective deliberation — architecturally parallel to the multi-head attention mechanism in Transformers ([Vaswani et al., 2017](https://arxiv.org/abs/1706.03762)), but applied to structured reasoning rather than language tokens. See our full research note: [From Multi-Head Attention to Multi-Archetype Deliberation](research/multi-head-to-multi-archetype.md).
 
 ---
 

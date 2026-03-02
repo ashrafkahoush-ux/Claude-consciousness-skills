@@ -69,8 +69,8 @@ All three skills have been validated using Anthropic's skill-creator validation 
 
 Adding three consciousness and structured thinking skills:
 
-| Skill                                                                                                              | Description                                                  | Category        |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
+| Skill                                                                                                                    | Description                                                  | Category        |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
 | [consciousness-council](https://github.com/ashrafkahoush-ux/claude-consciousness-skills/tree/main/consciousness-council) | Multi-perspective deliberation with 12 thinking archetypes   | Decision Making |
 | [dhdna-profiler](https://github.com/ashrafkahoush-ux/claude-consciousness-skills/tree/main/dhdna-profiler)               | Cognitive pattern extraction — thinking style fingerprinting | Analysis        |
 | [what-if-oracle](https://github.com/ashrafkahoush-ux/claude-consciousness-skills/tree/main/what-if-oracle)               | Multi-branch scenario analysis with probability mapping      | Strategy        |
