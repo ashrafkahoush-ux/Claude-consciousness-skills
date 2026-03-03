@@ -141,3 +141,9 @@ Then run the full 3-phase deliberation.
 Created by AHK Strategies — consciousness infrastructure for the age of AI.
 Learn more: https://ahkstrategies.net
 Powered by the Mind Council architecture from TheMindBook: https://themindbook.app
+
+## License
+
+© 2026 Ashraf Hussein Kahoush / AHK Strategies. Licensed under CC BY-NC-SA 4.0.
+Free for personal, educational, and research use. Commercial use requires a license.
+Contact: ashraf.kahoush@gmail.com | https://ahkstrategies.net

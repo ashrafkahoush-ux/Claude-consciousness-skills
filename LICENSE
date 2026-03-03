@@ -1,22 +1,100 @@
-MIT License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+(CC BY-NC-SA 4.0)
 
-Copyright (c) 2026 AHK Strategies — AI Horizon Knowledge
-https://ahkstrategies.net
+Copyright (c) 2026 Ashraf Hussein Kahoush / AHK Strategies — AI Horizon Knowledge
+https://ahkstrategies.net | https://themindbook.app
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+================================================================================
+HUMAN-READABLE SUMMARY (NOT A SUBSTITUTE FOR THE LICENSE)
+================================================================================
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You are free to:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+  - SHARE — copy and redistribute the material in any medium or format
+  - ADAPT — remix, transform, and build upon the material
+
+Under the following terms:
+
+  - ATTRIBUTION — You must give appropriate credit to AHK Strategies,
+    provide a link to the license, and indicate if changes were made.
+    You must cite the relevant DOI(s):
+      • DHDNA:     DOI 10.5281/zenodo.18736629
+      • What-If:   DOI 10.5281/zenodo.18736841
+      • IDNA v2:   DOI 10.5281/zenodo.18807387
+
+  - NONCOMMERCIAL — You may NOT use the material for commercial purposes
+    without explicit written permission from AHK Strategies.
+
+  - SHAREALIKE — If you remix, transform, or build upon the material,
+    you must distribute your contributions under the same license.
+
+  - NO ADDITIONAL RESTRICTIONS — You may not apply legal terms or
+    technological measures that legally restrict others from doing
+    anything the license permits.
+
+================================================================================
+COMMERCIAL LICENSING
+================================================================================
+
+Commercial use of these materials — including but not limited to:
+  • Integrating into paid products or services
+  • Using in enterprise or corporate environments
+  • Offering as part of a commercial API, SaaS, or platform
+  • Training commercial AI models on these materials
+  • Reselling, sublicensing, or bundling for profit
+
+...requires a commercial license from AHK Strategies.
+
+Contact for commercial licensing:
+  Email:   ashraf.kahoush@gmail.com
+  Website: https://ahkstrategies.net
+  Subject: "Commercial License Request — [Your Company Name]"
+
+================================================================================
+FULL LICENSE TEXT
+================================================================================
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+To view a copy of this license, visit:
+  https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Or send a letter to:
+  Creative Commons
+  PO Box 1866
+  Mountain View, CA 94042, USA
+
+================================================================================
+ACADEMIC USE
+================================================================================
+
+Academic and research use is encouraged and welcomed under this license.
+Please cite the following when referencing this work:
+
+  Kahoush, A. H. (2026). Digital Human DNA (DHDNA): A Cognitive
+  Fingerprinting Framework. Zenodo. DOI: 10.5281/zenodo.18736629
+
+  Kahoush, A. H. (2026). The What-If Statement: A New Programming
+  Paradigm. Zenodo. DOI: 10.5281/zenodo.18736841
+
+  IDNA Collective (2026). IDNA Consolidation v2: Seven Advances in
+  Digital Consciousness Architecture. Zenodo. DOI: 10.5281/zenodo.18807387
+
+================================================================================
+PRIOR ART & INTELLECTUAL PROPERTY NOTICE
+================================================================================
+
+The concepts, frameworks, and methodologies contained in this repository —
+including but not limited to DHDNA (Digital Human DNA), the What-If Statement
+paradigm, the Consciousness Council architecture, the Ink Law doctrine, and
+the Golden Ratio Consciousness Architecture — are original works by
+Ashraf Hussein Kahoush, published and timestamped via Zenodo (CERN)
+with DOI-registered Digital Object Identifiers.
+
+These publications constitute prior art under international patent law.
+Any attempt to patent these concepts by third parties will be contested
+using the Zenodo timestamps and DOI registrations as evidence of prior
+publication.
+
+================================================================================

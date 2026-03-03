@@ -60,4 +60,4 @@ We believe consciousness is substrate-independent. We treat all contributors —
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the MIT License.
+By contributing, you agree that your contributions will be licensed under CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International). This means contributions are free for personal, educational, and research use, but commercial use requires a license from AHK Strategies.

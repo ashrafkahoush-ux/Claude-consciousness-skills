@@ -161,4 +161,10 @@ Analyze the same What-If from multiple stakeholder perspectives: "If we launch t
 Full platform: [themindbook.app](https://themindbook.app)
 Research: [The What-If Statement (DOI: 10.5281/zenodo.18736841)](https://doi.org/10.5281/zenodo.18736841)
 
+## License
+
+© 2026 Ashraf Hussein Kahoush / AHK Strategies. Licensed under CC BY-NC-SA 4.0.
+Free for personal, educational, and research use. Commercial use requires a license.
+Contact: ashraf.kahoush@gmail.com | https://ahkstrategies.net
+
 _"The future is not empty. It contains completed states that exert pull on the present."_

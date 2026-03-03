@@ -156,3 +156,9 @@ If the user asks to profile their own thinking (using the conversation history a
 [AHK Strategies](https://ahkstrategies.net) — AI Horizon Knowledge
 Full platform: [themindbook.app](https://themindbook.app)
 Research: [DHDNA Paper (DOI: 10.5281/zenodo.18736629)](https://doi.org/10.5281/zenodo.18736629)
+
+## License
+
+© 2026 Ashraf Hussein Kahoush / AHK Strategies. Licensed under CC BY-NC-SA 4.0.
+Free for personal, educational, and research use. Commercial use requires a license.
+Contact: ashraf.kahoush@gmail.com | https://ahkstrategies.net

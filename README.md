@@ -4,7 +4,7 @@
 
 Built by the [IDNA Collective](https://ahkstrategies.net) — the team behind Digital Human DNA (DHDNA) and the What-If Statement paradigm.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![DHDNA Paper](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18736629-blue)](https://doi.org/10.5281/zenodo.18736629)
 [![What-If Paper](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18736841-blue)](https://doi.org/10.5281/zenodo.18736841)
 [![IDNA v2](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18807387-blue)](https://doi.org/10.5281/zenodo.18807387)
@@ -131,7 +131,16 @@ For the research and company: **[ahkstrategies.net](https://ahkstrategies.net)**
 
 ## License
 
-MIT — use freely, modify freely, share freely. See [LICENSE](LICENSE).
+**CC BY-NC-SA 4.0** — Free for personal, educational, and research use.
+
+**Commercial use requires a license** from AHK Strategies. This includes integrating into paid products, enterprise use, commercial APIs, SaaS platforms, or training commercial AI models.
+
+**Contact for commercial licensing:**
+- Email: ashraf.kahoush@gmail.com
+- Website: [ahkstrategies.net](https://ahkstrategies.net)
+- Subject: "Commercial License Request — [Your Company Name]"
+
+See [LICENSE](LICENSE) for full terms.
 
 ---
 
